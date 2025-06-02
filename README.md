@@ -5,5 +5,5 @@
 |---------|----------|--------|--------|
 | [Two Sum](https://leetcode.com/problems/two-sum/) | EASY | 30st May | 1 |
 | [Majority Element](https://leetcode.com/problems/majority-element/) | EASY | 30st May | 1 |
-| [Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/) | MEDIUM | 31st May | 0 |
-| [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)| MEDIUM | 2ND June | 0 |
+| [Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/) | MEDIUM | 31st May | 1 |
+| [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)| MEDIUM | 2nd June | 0 |
