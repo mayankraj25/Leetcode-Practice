@@ -8,3 +8,4 @@
 | [Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/) | MEDIUM | 31st May | 2 |
 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)| MEDIUM | 2nd June | 1 |
 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | HARD | 3rd June | 0 |
+| [Count Pairs Whose Sum is Less than Target]([https://leetcode.com/problems/unique-paths-iii/](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/)) | EASY | 6th June | 0 |
