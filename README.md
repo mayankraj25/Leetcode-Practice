@@ -10,3 +10,4 @@
 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | HARD | 3rd June | 0 |
 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | EASY | 6th June | 0 |
 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/) | EASY | 6th June | 0 |
+| [Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/) | EASY | 7th June | 0 |
