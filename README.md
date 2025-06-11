@@ -12,4 +12,4 @@
 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/) | EASY | 6th June | 1 |
 | [Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/) | EASY | 7th June | 0 |
 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | MEDIUM | 8th June | 0 |
-| [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | HARD | 10th June | 0 |
+| [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | HARD | 10th June | 1 |
