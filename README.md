@@ -13,3 +13,4 @@
 | [Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/) | EASY | 7th June | 1 |
 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | MEDIUM | 8th June | 1 |
 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | HARD | 10th June | 1 |
+| [Array Partition](https://leetcode.com/problems/array-partition/) | EASY | 13th June | 0 |
