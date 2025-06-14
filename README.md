@@ -15,3 +15,4 @@
 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | HARD | 10th June | 1 |
 | [Array Partition](https://leetcode.com/problems/array-partition/) | EASY | 13th June | 0 |
 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | EASY | 14th June | 0 |
+| [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | EASY | 14th June | 0 |
