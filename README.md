@@ -14,3 +14,4 @@
 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | MEDIUM | 8th June | 1 |
 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | HARD | 10th June | 1 |
 | [Array Partition](https://leetcode.com/problems/array-partition/) | EASY | 13th June | 0 |
+| [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | EASY | 14th June | 0 |
