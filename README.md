@@ -10,7 +10,7 @@
 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | HARD | 3rd June | 0 |
 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | EASY | 6th June | 2 |
 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/) | EASY | 6th June | 2 |
-| [Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/) | EASY | 7th June | 1 |
+| [Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/) | EASY | 7th June | 2 |
 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | MEDIUM | 8th June | 1 |
 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | HARD | 10th June | 1 |
 | [Array Partition](https://leetcode.com/problems/array-partition/) | EASY | 13th June | 0 |
