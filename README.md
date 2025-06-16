@@ -16,3 +16,4 @@
 | [Array Partition](https://leetcode.com/problems/array-partition/) | EASY | 13th June | 0 |
 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | EASY | 14th June | 0 |
 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | EASY | 14th June | 0 |
+| [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | MEDIUM | 16th June | 0 |
