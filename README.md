@@ -18,3 +18,4 @@
 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | EASY | 14th June | 0 |
 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | MEDIUM | 16th June | 0 |
 | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | MEDIUM | 17th June | 0 |
+| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | HARD | 20th June | 0 |
