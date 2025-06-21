@@ -14,7 +14,7 @@
 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | MEDIUM | 8th June | 2 |
 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | HARD | 10th June | 1 |
 | [Array Partition](https://leetcode.com/problems/array-partition/) | EASY | 13th June | 0 |
-| [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | EASY | 14th June | 0 |
+| [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | EASY | 14th June | 1 |
 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | EASY | 14th June | 0 |
 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | MEDIUM | 16th June | 0 |
 | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | MEDIUM | 17th June | 0 |
