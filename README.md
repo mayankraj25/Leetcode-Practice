@@ -19,3 +19,6 @@
 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | MEDIUM | 16th June | 1 |
 | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | MEDIUM | 17th June | 1 |
 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | HARD | 20th June | 0 |
+| [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | EASY | 22nd June | 0 |
+| [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | EASY | 22nd June | 0 |
+| [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | EASY | 22nd June | 0 |
