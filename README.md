@@ -22,5 +22,5 @@
 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | EASY | 22nd June | 0 |
 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | EASY | 22nd June | 0 |
 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | EASY | 22nd June | 0 |
-| [Move Zeroes]([https://leetcode.com/problems/merge-strings-alternately/](https://leetcode.com/problems/move-zeroes/)) | EASY | 23rd June | 0 |
+| [Move Zeroes]((https://leetcode.com/problems/move-zeroes/)) | EASY | 23rd June | 0 |
 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | EASY | 23nd June | 0 |
