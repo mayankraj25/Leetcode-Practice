@@ -24,3 +24,4 @@
 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | EASY | 22nd June | 0 |
 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | EASY | 23rd June | 0 |
 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | EASY | 23nd June | 0 |
+| [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | MEDIUM | 25th June | 0 |
