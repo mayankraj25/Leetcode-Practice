@@ -13,7 +13,7 @@
 | 8 | [Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/) | EASY | 7th June | 2 |
 | 9 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | MEDIUM | 8th June | 2 |
 | 10 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | HARD | 10th June | 1 |
-| 11 | [Array Partition](https://leetcode.com/problems/array-partition/) | EASY | 13th June | 0 |
+| 11 | [Array Partition](https://leetcode.com/problems/array-partition/) | EASY | 13th June | 1 |
 | 12 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | EASY | 14th June | 1 |
 | 13 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | EASY | 14th June | 0 |
 | 14 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | MEDIUM | 16th June | 1 |
