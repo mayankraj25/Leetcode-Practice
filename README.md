@@ -25,3 +25,4 @@
 | 20 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | EASY | 23rd June | 0 |
 | 21 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | EASY | 23nd June | 0 |
 | 22 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | MEDIUM | 25th June | 0 |
+| 23 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | MEDIUM | 26th June | 0 |
