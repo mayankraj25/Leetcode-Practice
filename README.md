@@ -24,5 +24,6 @@
 | 19 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | EASY | 22nd June | 0 |
 | 20 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | EASY | 23rd June | 0 |
 | 21 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | EASY | 23nd June | 0 |
-| 22 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | MEDIUM | 25th June | 0 |
-| 23 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | MEDIUM | 26th June | 0 |
+| 22 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | MEDIUM | 24th June | 0 |
+| 23 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | MEDIUM | 25th June | 0 |
+| 24 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | EASY | 26th June | 0 |
