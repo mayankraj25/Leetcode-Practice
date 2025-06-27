@@ -21,7 +21,7 @@
 | 16 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | HARD | 20th June | 1 |
 | 17 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | EASY | 22nd June | 0 |
 | 18 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | EASY | 22nd June | 1 |
-| 19 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | EASY | 22nd June | 0 |
+| 19 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | EASY | 22nd June | 1 |
 | 20 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | EASY | 23rd June | 0 |
 | 21 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | EASY | 23nd June | 0 |
 | 22 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | MEDIUM | 24th June | 0 |
