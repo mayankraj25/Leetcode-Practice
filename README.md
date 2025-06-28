@@ -29,3 +29,4 @@
 | 24 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | EASY | 26th June | 0 |
 | 25 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | MEDIUM | 28th June | 0 |
 | 26 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | MEDIUM | 28th June | 0 |
+| 27 | [Plus One](https://leetcode.com/problems/plus-one/) | EASY | 28th June | 0 |
