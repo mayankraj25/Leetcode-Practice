@@ -30,3 +30,5 @@
 | 25 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | MEDIUM | 28th June | 0 |
 | 26 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | MEDIUM | 28th June | 0 |
 | 27 | [Plus One](https://leetcode.com/problems/plus-one/) | EASY | 28th June | 0 |
+| 28 | [Clear Digits](https://leetcode.com/problems/clear-digits/) | EASY | 29th June | 0 |
+| 29 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | EASY | 29th June | 0 |
