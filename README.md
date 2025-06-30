@@ -32,3 +32,4 @@
 | 27 | [Plus One](https://leetcode.com/problems/plus-one/) | EASY | 28th June | 0 |
 | 28 | [Clear Digits](https://leetcode.com/problems/clear-digits/) | EASY | 29th June | 0 |
 | 29 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | EASY | 29th June | 0 |
+| 30 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | EASY | 30th June | 0 |
