@@ -35,3 +35,4 @@
 | 30 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | EASY | 30th June | 0 |
 | 31 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | MEDIUM | 1st July | 0 |
 | 32 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | EASY | 2nd July | 0 |
+| 33 | [Missing Number](https://leetcode.com/problems/missing-number/) | EASY | 2nd July | 0 |
