@@ -34,5 +34,6 @@
 | 29 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | EASY | 29th June | 0 |
 | 30 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | EASY | 30th June | 0 |
 | 31 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | MEDIUM | 1st July | 0 |
-| 32 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | EASY | 2nd July | 0 |
+| 32 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | MEDIUM | 2nd July | 0 |
 | 33 | [Missing Number](https://leetcode.com/problems/missing-number/) | EASY | 2nd July | 0 |
+| 34 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | EASY | 2nd July | 0 |
