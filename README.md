@@ -37,3 +37,4 @@
 | 32 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | MEDIUM | 2nd July | 0 |
 | 33 | [Missing Number](https://leetcode.com/problems/missing-number/) | EASY | 2nd July | 0 |
 | 34 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | EASY | 2nd July | 0 |
+| 35 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | EASY | 3rd July | 0 |
