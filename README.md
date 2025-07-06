@@ -41,3 +41,4 @@
 | 36 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | EASY | 4th July | 0 |
 | 37 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | EASY | 5th July | 0 |
 | 38 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | MEDIUM | 6th July | 0 |
+| 39 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | EASY | 6th July | 0 |
