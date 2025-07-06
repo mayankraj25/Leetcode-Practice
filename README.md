@@ -40,3 +40,4 @@
 | 35 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | EASY | 3rd July | 0 |
 | 36 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | EASY | 4th July | 0 |
 | 37 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | EASY | 5th July | 0 |
+| 38 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | MEDIUM | 6th July | 0 |
