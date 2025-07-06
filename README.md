@@ -29,7 +29,7 @@
 | 24 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | EASY | 26th June | 0 |
 | 25 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | MEDIUM | 28th June | 0 |
 | 26 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | MEDIUM | 28th June | 0 |
-| 27 | [Plus One](https://leetcode.com/problems/plus-one/) | EASY | 28th June | 0 |
+| 27 | [Plus One](https://leetcode.com/problems/plus-one/) | EASY | 28th June | 1 |
 | 28 | [Clear Digits](https://leetcode.com/problems/clear-digits/) | EASY | 29th June | 0 |
 | 29 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | EASY | 29th June | 0 |
 | 30 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | EASY | 30th June | 0 |
