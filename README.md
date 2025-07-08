@@ -45,3 +45,4 @@
 | 40 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | EASY | 7th July | 0 |
 | 41 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | EASY | 7th July | 0 |
 | 42 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | EASY | 7th July | 0 |
+| 43 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | MEDIUM | 8th July | 0 |
