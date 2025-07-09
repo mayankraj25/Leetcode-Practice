@@ -47,3 +47,4 @@
 | 42 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | EASY | 7th July | 0 |
 | 43 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | MEDIUM | 8th July | 0 |
 | 44 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | MEDIUM | 9th July | 0 |
+| 45 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | MEDIUM | 9th July | 0 |
