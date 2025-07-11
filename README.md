@@ -49,3 +49,5 @@
 | 44 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | MEDIUM | 9th July | 0 |
 | 45 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | MEDIUM | 9th July | 0 |
 | 46 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | MEDIUM | 10th July | 0 |
+| 47 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | MEDIUM | 11th July | 0 |
+| 48 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | MEDIUM | 11th July | 0 |
