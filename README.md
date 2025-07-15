@@ -51,3 +51,4 @@
 | 46 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | MEDIUM | 10th July | 0 |
 | 47 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | MEDIUM | 11th July | 0 |
 | 48 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | MEDIUM | 11th July | 0 |
+| 49 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | EASY | 15th July | 0 |
