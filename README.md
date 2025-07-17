@@ -53,3 +53,4 @@
 | 48 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | MEDIUM | 11th July | 0 |
 | 49 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | EASY | 15th July | 0 |
 | 50 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | EASY | 16th July | 0 |
+| 51 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | EASY | 16th July | 0 |
