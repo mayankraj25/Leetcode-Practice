@@ -54,3 +54,4 @@
 | 49 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | EASY | 15th July | 0 |
 | 50 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | EASY | 16th July | 0 |
 | 51 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | EASY | 16th July | 0 |
+| 52 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | MEDIUM | 30th July | 0 |
