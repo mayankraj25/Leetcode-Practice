@@ -57,3 +57,4 @@
 | 52 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | MEDIUM | 30th July | 0 |
 | 53 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | MEDIUM | 31st July | 0 |
 | 54 | [Remove Element](https://leetcode.com/problems/remove-element/) | EASY | 4th August | 0 |
+| 55 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | MEDIUM | 6th August | 0 |
