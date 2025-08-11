@@ -59,4 +59,5 @@
 | 54 | [Remove Element](https://leetcode.com/problems/remove-element/) | EASY | 4th August | 0 |
 | 55 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | MEDIUM | 6th August | 0 |
 | 54 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | EASY | 7th August | 0 |
+| 54 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | EASY | 10th August | 0 |
 | 55 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | EASY | 11th August | 0 |
