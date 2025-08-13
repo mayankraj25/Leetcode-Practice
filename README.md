@@ -61,3 +61,4 @@
 | 54 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | EASY | 7th August | 0 |
 | 54 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | EASY | 10th August | 0 |
 | 55 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | EASY | 11th August | 0 |
+| 55 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | MEDIUM | 13th August | 0 |
