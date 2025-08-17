@@ -58,9 +58,10 @@
 | 53 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | MEDIUM | 31st July | 0 |
 | 54 | [Remove Element](https://leetcode.com/problems/remove-element/) | EASY | 4th August | 0 |
 | 55 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | MEDIUM | 6th August | 0 |
-| 54 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | EASY | 7th August | 0 |
-| 54 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | EASY | 10th August | 0 |
-| 55 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | EASY | 11th August | 0 |
-| 55 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | MEDIUM | 13th August | 0 |
-| 56 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | EASY | 15th August | 0 |
-| 57 | [Path Sum](https://leetcode.com/problems/path-sum/) | EASY | 15th August | 0 |
+| 56 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | EASY | 7th August | 0 |
+| 57 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | EASY | 10th August | 0 |
+| 58 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | EASY | 11th August | 0 |
+| 59 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | MEDIUM | 13th August | 0 |
+| 60 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | EASY | 15th August | 0 |
+| 61 | [Path Sum](https://leetcode.com/problems/path-sum/) | EASY | 15th August | 0 |
+| 62 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | EASY | 17th August | 0 |
