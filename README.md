@@ -66,3 +66,5 @@
 | 61 | [Path Sum](https://leetcode.com/problems/path-sum/) | EASY | 15th August | 0 |
 | 62 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | EASY | 17th August | 0 |
 | 63 | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | MEDIUM | 23rd August | 0 |
+| 64 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | MEDIUM | 25th August | 0 |
+| 65 | [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/) | EASY | 26th August | 0 |
