@@ -68,3 +68,4 @@
 | 63 | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | MEDIUM | 23rd August | 0 |
 | 64 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | MEDIUM | 25th August | 0 |
 | 65 | [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/) | EASY | 26th August | 0 |
+| 66 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | EASY | 6th September | 0 |
