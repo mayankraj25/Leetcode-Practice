@@ -69,3 +69,4 @@
 | 64 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | MEDIUM | 25th August | 0 |
 | 65 | [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/) | EASY | 26th August | 0 |
 | 66 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | EASY | 6th September | 0 |
+| 67 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | EASY | 8th September | 0 |
