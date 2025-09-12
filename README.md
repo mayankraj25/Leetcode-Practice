@@ -73,3 +73,4 @@
 | 68 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | MEDIUM | 10th September | 0 |
 | 69 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | MEDIUM | 11th September | 1 |
 | 70 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | EASY | 11th September | 0 |
+| 71 | [Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/) | MEDIUM | 12th September | 0 |
