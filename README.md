@@ -38,7 +38,7 @@
 | 33 | [Missing Number](https://leetcode.com/problems/missing-number/) | EASY | 2nd July | 0 |
 | 34 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | EASY | 2nd July | 0 |
 | 35 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | EASY | 3rd July | 0 |
-| 36 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | EASY | 4th July | 0 |
+| 36 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | EASY | 4th July | 1 |
 | 37 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | EASY | 5th July | 0 |
 | 38 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | MEDIUM | 6th July | 0 |
 | 39 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | EASY | 6th July | 0 |
